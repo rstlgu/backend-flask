@@ -325,3 +325,4 @@ print(response.json())
 ---
 
 **Backend API pronto per integrazione con frontend Next.js!** 🎉
+# Deploy trigger
